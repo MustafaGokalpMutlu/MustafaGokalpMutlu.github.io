@@ -2,7 +2,6 @@
   <title>
   </title>
   <body>
-    <br> SİVASLILARIN 
-                   <br>GEÇMİŞİNİ SİKİM  
+                                         <br> YAĞLI YEME 
   /body>
 </html>
