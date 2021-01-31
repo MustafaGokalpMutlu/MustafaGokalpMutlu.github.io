@@ -1,12 +1,8 @@
 <html>
   <title>
-    YENİ BİR BAŞLANGIÇ 
   </title>
   <body>
-   GİTHUB ÜZERİNDEN İNTERNET SİTESİ OLUŞTURABİLİR MİYİM ? 
-  </body>
-  
-  
-  
-  
+    <br> SİVASLILARIN 
+                   <br>GEÇMİŞİNİ SİKİM  
+  /body>
 </html>
